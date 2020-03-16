@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigate_to_dynamic_activity">Navigate to Dynamic Activity</string>
+    <string name="title_dynamicfeature">Dynamic Feature</string>
+</resources>
